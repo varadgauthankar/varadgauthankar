@@ -1,26 +1,9 @@
-### Hi there 👋, I am Varad Gauthankar.
+## Hi there 👋, I am Varad Gauthankar.
 
-* I am 19 years old from Goa, I love technology and coding. 
-* Besides the coding part, I love weight training and cycling.
+I am 19 years old from Goa, I love technology and coding, Besides the coding part, I love weight training and cycling.
 
-* 🌱 I’m currently learning flutter. 
+- 🌱 I’m currently learning flutter. 
 
-#Social media:
-[Twitter - @varad1601](https://twitter.com/varad1601) , [Instagram - @varadgauthankar](https://instagram.com/varadgauthanakr)
-
-<img src="https://github-readme-stats.vercel.app/api?username=varad1601&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-<!--
-**varad1601/varad1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social media:
+[Twitter - @varad1601](https://twitter.com/varad1601)
+[Instagram - @varadgauthankar](https://instagram.com/varadgauthanakar)
