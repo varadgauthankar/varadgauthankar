@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Varad Gauthankar.
+
+* I am 19 years old from Goa, I love technology and coding. 
+* Besides the coding part, I love weight training and cycling.
+
+* 🌱 I’m currently learning flutter. 
 
 <!--
 **varad1601/varad1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
