@@ -5,6 +5,11 @@
 
 * 🌱 I’m currently learning flutter. 
 
+#Social media:
+[Twitter - @varad1601](https://twitter.com/varad1601) , [Instagram - @varadgauthankar](https://instagram.com/varadgauthanakr)
+
+<img src="https://github-readme-stats.vercel.app/api?username=varad1601&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 <!--
 **varad1601/varad1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
