@@ -5,4 +5,4 @@ I am 19 years old from Goa, I love technology and coding, Besides the coding par
 - 🌱 I’m currently learning flutter. 
 
 ### Social media:
-[Twitter - @varad1601](https://twitter.com/varad1601) | [Instagram - @varadgauthankar](https://instagram.com/varadgauthankar)
+[Twitter - @varadgauthankar](https://twitter.com/varad1601) | [Instagram - @varadgauthankar](https://instagram.com/varadgauthankar)
