@@ -2,7 +2,7 @@
 
 I am 19 years old from Goa, I love technology and coding, Besides the coding part, I love weight training and cycling.
 
-- 🌱 I’m currently learning flutter. 
+- 🌱 I’m currently just exploring random stuffs.
 
 ### Social media:
 [Twitter - @varadgauthankar](https://twitter.com/varad1601) | [Instagram - @varadgauthankar](https://instagram.com/varadgauthankar)
